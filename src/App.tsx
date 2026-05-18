@@ -6,6 +6,7 @@ export function App() {
     { id: 2, title: 'Song 2', src: 'https://musicfun.it-incubator.app/api/samurai-way-soundtrack-instrumental.mp3' },
     { id: 3, title: 'Song 3', src: 'https://musicfun.it-incubator.app/api/samurai-way-soundtrack-instrumental.mp3' },
     { id: 4, title: 'Song 4', src: 'https://musicfun.it-incubator.app/api/samurai-way-soundtrack-instrumental.mp3' },
+    { id: 5, title: 'Song 5', src: 'https://musicfun.it-incubator.app/api/samurai-way-soundtrack-instrumental.mp3' },
     { id: 5, title: 'Song 5', src: 'https://musicfun.it-incubator.app/api/samurai-way-soundtrack-instrumental.mp3' }
   ];
 
